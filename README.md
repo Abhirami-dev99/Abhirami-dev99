@@ -21,3 +21,28 @@ I'm an aspiring Salesforce Developer with hands-on experience in Apex, SOQL, Flo
 📚 Trailhead: https://www.salesforce.com/trailblazer/abhirami071199
 
 🌱 Always eager to learn, collaborate, and grow in the Salesforce ecosystem.
+
+## 🛠️ Skills & Tools
+
+### ⚙️ Salesforce Platform
+- Apex Programming
+- SOQL / SOSL
+- Flows & Process Builder
+- Record level Security(profiles, roles, sharing Rules)
+- Custom Objects, Triggers, Validation Rules
+
+### 🧰 Development Tools
+- Visual Studio Code (VS Code)
+- Git & GitHub
+- Workbench (SOQL/SOSL, REST Explorer)
+- Salesforce CLI (sfdx)
+
+### 🌐 Integration Knowledge
+- REST API basics
+- Named Credentials
+- External Services (learning)
+
+### 📊 Other Tools & Platforms
+- Trailhead & Playground Orgs
+- Salesforce AppExchange
+- Change Sets & Metadata Deployments
