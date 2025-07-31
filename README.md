@@ -46,3 +46,14 @@ I'm an aspiring Salesforce Developer with hands-on experience in Apex, SOQL, Flo
 - Trailhead & Playground Orgs
 - Salesforce AppExchange
 - Change Sets & Metadata Deployments
+  
+
+## 🔄 Auto Lead Assignment (Apex + Custom Metadata)
+
+A real-world Salesforce automation project that demonstrates how to use Apex triggers and Custom Metadata Types to assign Leads based on their source (Web, Phone, etc.) to specific users.
+
+- 🧠 Follows best practices with separation of logic (Trigger + Handler)
+- 📦 Uses Custom Metadata for configuration-driven assignment
+- 🧪 Includes test class with bulk-safe logic
+
+🔗 [View Project on GitHub](https://github.com/Abhirami-dev99/auto-lead-assignment-apex)
