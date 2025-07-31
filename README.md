@@ -1,3 +1,6 @@
+[![Download Resume](https://img.shields.io/badge/Download%20Resume-PDF-blue?style=for-the-badge&logo=adobeacrobatreader)](https://github.com/Abhirami-dev99/Abhirami-dev99/raw/main/CVdev.pdf)
+
+
 ## 👋 Hello! I'm Abhirami
 
 I'm an aspiring Salesforce Developer with hands-on experience in Apex, SOQL, Flows, and Lightning Web Components. Currently learning and building real-world projects to deepen my Salesforce development skills.
